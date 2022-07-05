@@ -2,14 +2,6 @@
 (require csc151)
 (require csc151/rex)
 (require rackunit)
-;
-; CSC-151 Functional Problem Solving w/lab
-; Mini project 6
-; Sauryanshu Khanal
-; Date: Resubmit on 28th November 2021
-; Acknoledgement: Took help in part 5 & 6 from Minwoo Son
-
-;;;STAGE ONE: TABLING SUCCESSORS___________________________________________
 
 ;;; (add-successor! successor-table predecessor successor) -> void?
 ;;;  successor-table: hash? (keys are strings, values are lists of strings)
